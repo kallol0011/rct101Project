@@ -1,0 +1,40 @@
+.Personal{
+    
+    display: grid;
+    margin: auto;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 100px;
+    margin-bottom: 70px;
+    gap:11px;
+    width: 97%;
+    
+    
+}
+
+.Personal>div{
+
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.Navimg{
+    height: 350px;
+    width: 97%;
+}
+
+.crImg{
+    height: 400px;
+    width: 97%;
+    
+     margin: auto;
+
+}
+
+del{
+    font-size: 16px;
+}
+span{
+    color: green;
+}
+.price{
+    color: red;
+}
